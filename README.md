@@ -6,7 +6,7 @@
 - <b>R Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/)
 - <b>Data Visualization</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
   - [JWipe (Disk Wiping Utility)](https://github.com/)
