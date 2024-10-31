@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>R Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+  - [Calculating Treatment Effect on Political Canvassing Recipients](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 - <b>Python</b>
   - [Image Analysis Middleware](https://github.com/)
 - <b>Data Visualization</b>
