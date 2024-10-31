@@ -11,8 +11,7 @@
   - [Power BI](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 - <b>Research</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+
 
 
 
