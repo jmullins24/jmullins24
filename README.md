@@ -8,9 +8,9 @@
 - <b>Python</b>
   - [Image Analysis Middleware](https://github.com/)
 - <b>Data Visualization</b>
-  - [Power BI](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
+  - [Advanced Excel Dashboards](https://github.com/jmullins24/ExcelDashboard)
 - <b>Research</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
+  - [State Sponsored Cyber Espionage and the Vulnerability of the U.S. Infrastructure](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 
 
 
