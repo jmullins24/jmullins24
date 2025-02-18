@@ -7,7 +7,7 @@
   - [Calculating Treatment Effect on Political Canvassing Recipients](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 - <b>Data Visualization</b>
   - [Advanced Excel Dashboards](https://github.com/jmullins24/ExcelDashboard)
-  - [Tableau- Medical Diagnoses Ethiopia | Sendafa 2024](https://public.tableau.com/views/Ethiopia2024Dashboard/Sendafa2024Diagnoses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Tableau- Medical Diagnoses Ethiopia | Sendafa 2024]([https://public.tableau.com/views/Ethiopia2024Dashboard/Sendafa2024Diagnoses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/WX8YGKH5B?:display_count=n&:origin=viz_share_link))
 - <b>Research</b>
   - [State Sponsored Cyber Espionage and the Vulnerability of the U.S. Infrastructure](https://github.com/jmullins24/EspionagePaper/blob/main/Mullins_Jacob_Intelligence%20Threat.pdf)
 
