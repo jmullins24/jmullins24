@@ -8,6 +8,7 @@
 - <b>Data Visualization</b>
   - [Advanced Excel Dashboards](https://github.com/jmullins24/ExcelDashboard)
   - [Tableau- Medical Diagnoses Ethiopia | Sendafa 2024](https://public.tableau.com/views/ETHWorkbook3_3_25/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [([Youtube Walkthrough](https://youtu.be/JZtbAdorBJ8?si=sC67xn5-LzhFN3vS))
 - <b>Research</b>
   - [State Sponsored Cyber Espionage and the Vulnerability of the U.S. Infrastructure](https://github.com/jmullins24/EspionagePaper/blob/main/Mullins_Jacob_Intelligence%20Threat.pdf)
 
