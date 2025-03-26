@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python Programming</b>
+  - [LinkedIn Application Bot](https://github.com/jmullins24/LinkedInApplicationBot)
 - <b>R Analysis</b>
   - [Calculating Treatment Effect on Political Canvassing Recipients](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 - <b>Data Visualization</b>
