@@ -15,7 +15,15 @@
 - <b>Research</b>
   - [State Sponsored Cyber Espionage and the Vulnerability of the U.S. Infrastructure](https://github.com/jmullins24/EspionagePaper/blob/main/Mullins_Jacob_Intelligence%20Threat.pdf)
 
+<img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef"
+     alt="OBGYN Death Rates"
+     style="display: block; margin: 0 auto;"
+     width="600px" />
 
+<img src="https://github.com/user-attachments/assets/cf396348-d07b-4ea6-9e8d-22fb8098ed44"
+     alt="OBGYN Death Rates"
+     style="display: block; margin: 0 auto;"
+     width="600px" />
 
 
 
@@ -29,12 +37,4 @@
 [Tableau]: https://public.tableau.com/app/profile/jacob.mullins/vizzes
 
 
-<img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef"
-     alt="OBGYN Death Rates"
-     style="display: block; margin: 0 auto;"
-     width="600px" />
 
-<img src="https://github.com/user-attachments/assets/cf396348-d07b-4ea6-9e8d-22fb8098ed44"
-     alt="OBGYN Death Rates"
-     style="display: block; margin: 0 auto;"
-     width="600px" />
