@@ -28,28 +28,6 @@
 [Shiny]: https://jacobmullins.shinyapps.io/FlexDashboard/
 [Tableau]: https://public.tableau.com/app/profile/jacob.mullins/vizzes
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef" 
-       alt="OBGYN Death Rates" 
-       width="600px" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cf396348-d07b-4ea6-9e8d-22fb8098ed44" 
-       alt="OBGYN Death Rates" 
-       width="600px" />
-</p>
-
-<center>
-  <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef" 
-       alt="OBGYN Death Rates" 
-       width="600px" />
-</center>
-<center>
-  <img src="https://github.com/user-attachments/assets/cf396348-d07b-4ea6-9e8d-22fb8098ed44" 
-       alt="OBGYN Death Rates" 
-       width="600px" />
-</center>
 
 <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef"
      alt="OBGYN Death Rates"
