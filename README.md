@@ -27,6 +27,15 @@
 [linkedin]: https://www.linkedin.com/in/jacob-mullins
 [Shiny]: https://jacobmullins.shinyapps.io/FlexDashboard/
 [Tableau]: https://public.tableau.com/app/profile/jacob.mullins/vizzes
-![obgyn_death_rates_animated](https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef" 
+       alt="OBGYN Death Rates" 
+       width="600px" />
+</p>
 ![ethiopia_deaths](https://github.com/user-attachments/assets/cf396348-d07b-4ea6-9e8d-22fb8098ed44)
 
+<center>
+  <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef" 
+       alt="OBGYN Death Rates" 
+       width="600px" />
+</center>
