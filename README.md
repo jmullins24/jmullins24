@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Jake! <br/><a href="https://github.com/jmullins24">Data Analyst</a>, <a href="https://www.linkedin.com/in/jacob-mullins/">Business Intelligence</a>, Paralegal</a>
+<h1>I'm Jake! <br/><a href="https://github.com/jmullins24">Data Analyst</a>, <a href="https://www.linkedin.com/in/jacob-mullins/">Business Intelligence</a>, Paralegal</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
