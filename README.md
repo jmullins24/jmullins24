@@ -8,7 +8,7 @@
 - <b>R Analysis</b>
   - [Calculating Treatment Effect on Political Canvassing Recipients](https://github.com/jmullins24/R-Analysis/blob/main/README.md)
 - <b>Data Visualization</b>
-  - [Data Visualization Ethiopia Quarto Presentation](https://raw.githack.com/jmullins24/Ethiopia-Quarto-Presentation/refs/heads/main/Mullins_FinalProjectquartoPres.html#/title-slide) [(Full Repository)](https://github.com/jmullins24/Ethiopia-Quarto-Presentation)
+  - [Ethiopia Quarto Presentation](https://raw.githack.com/jmullins24/Ethiopia-Quarto-Presentation/refs/heads/main/Mullins_FinalProjectquartoPres.html#/title-slide) [(Full Repository)](https://github.com/jmullins24/Ethiopia-Quarto-Presentation)
   - [Advanced Excel Dashboards](https://github.com/jmullins24/ExcelDashboard)
   - [Tableau- Medical Diagnoses Ethiopia | Sendafa 2024](https://public.tableau.com/views/ETHWorkbook3_3_25/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
                 - ([Youtube Walkthrough](https://youtu.be/JZtbAdorBJ8?si=sC67xn5-LzhFN3vS))
