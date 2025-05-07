@@ -13,7 +13,9 @@
   - [Tableau- Medical Diagnoses Ethiopia | Sendafa 2024](https://public.tableau.com/views/ETHWorkbook3_3_25/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
                 - ([Youtube Walkthrough](https://youtu.be/JZtbAdorBJ8?si=sC67xn5-LzhFN3vS))
 - <b>Research</b>
+  - [Cost-sharing and Healthcare Utilization: Singapore](https://jmullins24.github.io/Healthcare_Financing_in_Singapore/index.html)
   - [State Sponsored Cyber Espionage and the Vulnerability of the U.S. Infrastructure](https://github.com/jmullins24/EspionagePaper/blob/main/Mullins_Jacob_Intelligence%20Threat.pdf)
+
 
 <img src="https://github.com/user-attachments/assets/bdc219e6-7f61-4e2e-9b59-c925f614cbef"
      alt="OBGYN Death Rates"
